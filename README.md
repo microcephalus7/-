@@ -14,15 +14,31 @@
 
   JSInfo (모던 JS 튜토리얼) : [https://ko.javascript.info/](https://ko.javascript.info/)
 
+  JS 작동 원리 : [https://velog.io/@xedni/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%ACEvent-Loop%EC%99%80-Call-Stack-Web-API-Callback-Queue](https://velog.io/@xedni/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%ACEvent-Loop%EC%99%80-Call-Stack-Web-API-Callback-Queue)
+
+  JS 싱글 쓰레드 : [https://chanyeong.com/blog/post/44](https://chanyeong.com/blog/post/44)
+
+  JS 이벤트 루프 : [https://meetup.toast.com/posts/89](https://meetup.toast.com/posts/89)
+
 - TS
 
 - 브라우저
+
+  브라우저 작동 원리 : [https://it-ist.tistory.com/110](https://it-ist.tistory.com/110)
+
+  브라우저 동작 원리 (상세 설명) : [https://d2.naver.com/helloworld/59361](https://d2.naver.com/helloworld/59361)
+
+  DocumentFragment : [https://developer.mozilla.org/ko/docs/Web/API/DocumentFragment](https://developer.mozilla.org/ko/docs/Web/API/DocumentFragment)
 
 - React
 
   React 성능 최적화 : [https://uzihoon.com/post/ef453fd0-ab14-11ea-98ac-61734eebc216](https://uzihoon.com/post/ef453fd0-ab14-11ea-98ac-61734eebc216)
 
   Virtual DOM : [https://velopert.com/3236](https://velopert.com/3236)
+
+  react-router 동작 원리 [https://it-eldorado.tistory.com/113](https://it-eldorado.tistory.com/113)
+
+  React 코드 스플리팅 : [https://velog.io/@velopert/react-code-splitting](https://velog.io/@velopert/react-code-splitting)
 
 - Next
 
@@ -57,6 +73,8 @@
 - 기타
 
   댄 아브라모프 (Redux 창시자) 블로그 : [https://overreacted.io/](https://overreacted.io/)
+
+  FE 면접 질문 : [https://joshua1988.github.io/web-development/interview/frontend-questions/](https://joshua1988.github.io/web-development/interview/frontend-questions/)
 
 # 인프라
 
